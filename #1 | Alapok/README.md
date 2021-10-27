@@ -48,6 +48,8 @@ kispista.on('ready', () => {
    console.log('Elindultam!')
 })
 ```
+<br />
+A teljes kódot [ide](https://github.com/KriptonSource/Discord.js-V12/edit/main/%231%20%7C%20Alapok/index.js) kattintva éred el.
 
 6. Bot indítása: 
 
