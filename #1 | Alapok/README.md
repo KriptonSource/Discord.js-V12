@@ -19,7 +19,9 @@ npm install -g npm
 4. Discord.JS letöltése:
 
 ```sh
-npm i discord.j@12.5.3
+npm i discord.js@12.5.3
 ```
+
+5. [Kódolás]() 
 
 
