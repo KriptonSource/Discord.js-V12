@@ -3,7 +3,7 @@ const kispista = new Discord.Client()
 const token = 'te tokened'
 
 kispista.on('ready', () => {
-      console.log('Elindultam')
+      console.log('Elindultam!')
 })
 
 kispista.login(token)
