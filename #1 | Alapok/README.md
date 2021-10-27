@@ -20,16 +20,16 @@ Ebben a részben megismerkedünk az alapvető dolgokkal és létrehozzuk a botun
       <a href="#2-nodejs-letöltése">Node.js letöltése</a>
     </li>
     <li>
-      <a href="3-npm-letöltése">Npm letöltése</a>
+      <a href="#3-npm-letöltése">Npm letöltése</a>
     </li>
     <li>
-      <a href="4-discordjs-letöltése">Discord.JS letöltése</a>
+      <a href="#4-discordjs-letöltése">Discord.JS letöltése</a>
     </li>
     <li>
-      <a href="5-kódolás">Kódolás</a>
+      <a href="#5-kódolás">Kódolás</a>
     </li>
     <li>
-      <a href="6-bot-indítása">Bot indítása</a>
+      <a href="#6-bot-indítása">Bot indítása</a>
     </li>
   </ol>
 </details>
