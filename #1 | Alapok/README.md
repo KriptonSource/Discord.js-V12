@@ -17,19 +17,22 @@ Ebben a részben megismerkedünk az alapvető dolgokkal és létrehozzuk a botun
       <a href="#1-discord-bot-létrehozása-lásd-a-videóban">Discord Bot létrehozása</a>
     </li>
     <li>
-      <a href="#2-nodejs-letöltése-lásd-a-videóban">Node.js letöltése</a>
+      <a href="#2-visual-studio-code-letöltése-lásd-a-videóban">Bot indítása</a>
     </li>
     <li>
-      <a href="#3-npm-letöltése">Npm letöltése</a>
+      <a href="#3-nodejs-letöltése-lásd-a-videóban">Node.js letöltése</a>
     </li>
     <li>
-      <a href="#4-discordjs-letöltése">Discord.JS letöltése</a>
+      <a href="#4-npm-letöltése">Npm letöltése</a>
     </li>
     <li>
-      <a href="#5-kódolás">Kódolás</a>
+      <a href="#5-discordjs-letöltése">Discord.JS letöltése</a>
     </li>
     <li>
-      <a href="#6-bot-indítása">Bot indítása</a>
+      <a href="#6-kódolás">Kódolás</a>
+    </li>
+    <li>
+      <a href="#7-bot-indítása">Bot indítása</a>
     </li>
   </ol>
 </details>
@@ -38,20 +41,21 @@ Ebben a részben megismerkedünk az alapvető dolgokkal és létrehozzuk a botun
 ---
 
 #### 1. Discord Bot létrehozása *(lásd a videóban)* 
-#### 2. Node.js letöltése *(lásd a videóban)*
-#### 3. Npm letöltése:
+#### 2. Visual Studio Code letöltése *(lásd a videóban)* 
+#### 3. Node.js letöltése *(lásd a videóban)*
+#### 4. Npm letöltése:
 
 ```sh
 npm install -g npm 
 ```
 
-#### 4. Discord.JS letöltése:
+#### 5. Discord.JS letöltése:
 
 ```sh
 npm i discord.js@12.5.3
 ```
 
-#### 5. Kódolás:
+#### 6. Kódolás:
 - Először meghatározzuk mi az a Discord:
 
 ```js
@@ -85,7 +89,7 @@ kispista.login(token)
 
 A teljes kódot [ide](https://github.com/KriptonSource/Discord.js-V12/blob/main/%231%20%7C%20Alapok/index.js) kattintva éred el.
 
-#### 6. Bot indítása: 
+#### 7. Bot indítása: 
 
 ```sh
 node .
