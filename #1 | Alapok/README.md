@@ -14,10 +14,10 @@ Ebben a részben megismerkedünk az alapvető dolgokkal és létrehozzuk a botun
   <summary>Tartalomjegyzék</summary>
   <ol>
     <li>
-      <a href="#1-discord-bot-létrehozása">Discord Bot létrehozása</a>
+      <a href="#1-discord-bot-létrehozása-lásd-a-videóban">Discord Bot létrehozása</a>
     </li>
     <li>
-      <a href="#2-nodejs-letöltése">Node.js letöltése</a>
+      <a href="#2-nodejs-letöltés-lásd-a-videóban">Node.js letöltése</a>
     </li>
     <li>
       <a href="#3-npm-letöltése">Npm letöltése</a>
