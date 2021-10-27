@@ -17,7 +17,7 @@ Ebben a részben megismerkedünk az alapvető dolgokkal és létrehozzuk a botun
       <a href="#1-discord-bot-létrehozása-lásd-a-videóban">Discord Bot létrehozása</a>
     </li>
     <li>
-      <a href="#2-visual-studio-code-letöltése-lásd-a-videóban">Bot indítása</a>
+      <a href="#2-visual-studio-code-letöltése-lásd-a-videóban">Visual Studio Code letöltése</a>
     </li>
     <li>
       <a href="#3-nodejs-letöltése-lásd-a-videóban">Node.js letöltése</a>
