@@ -49,7 +49,7 @@ kispista.on('ready', () => {
 })
 ```
 <br />
-A teljes kódot [ide](https://github.com/KriptonSource/Discord.js-V12/blob/main/%231%20%7C%20Alapok/index.js) kattintva éred el.
+A teljes kódot [Ide](https://github.com/KriptonSource/Discord.js-V12/blob/main/%231%20%7C%20Alapok/index.js) kattintva éred el.
 
 6. Bot indítása: 
 
