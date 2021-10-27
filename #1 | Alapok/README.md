@@ -25,7 +25,7 @@ npm i discord.js@12.5.3
 5. [Kódolás](https://github.com/KriptonSource/Discord.js-V12/blob/main/%231%20%7C%20Alapok/index.js) 
 6. Bot indítása: 
 
-```sh
+```node
 node .
 ```
 
