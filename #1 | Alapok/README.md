@@ -13,7 +13,7 @@ Ebben a részben megismerkedünk az alapvető dolgokkal és létrehozzuk a botun
 3. Npm letöltése:
 
 ```sh
-npm install npm -g 
+npm install -g npm 
 ```
 
 4. Discord.JS letöltése:
