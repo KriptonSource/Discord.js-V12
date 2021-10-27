@@ -22,7 +22,33 @@ npm install -g npm
 npm i discord.js@12.5.3
 ```
 
-5. [Kódolás](https://github.com/KriptonSource/Discord.js-V12/blob/main/%231%20%7C%20Alapok/index.js) 
+5. Kódolás:
+- Először meghatározzuk mi az a Discord:
+
+```js
+const Discord = require('discord.js')
+```
+
+- Majd meghatározzuk a botunkat:
+
+```js
+const kispista = new Discord.Client()
+```
+
+- Majd a tokenünket:
+
+```js
+const token = 'te tokened'
+```
+
+- Ezután létrehozunk egy feladatot a botnak:
+*(ha online lett, írja ki: **Elindultam!**)*
+```js
+kispista.on('ready', () => {
+   console.log('Elindultam!')
+})
+```
+
 6. Bot indítása: 
 
 ```sh
