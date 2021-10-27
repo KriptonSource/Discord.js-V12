@@ -8,10 +8,18 @@ Ebben a részben megismerkedünk az alapvető dolgokkal és létrehozzuk a botun
 
 ### Lépések
 ---
-1. Discord Bot létrehozása *lásd a videóban* 
-2. Node.js letöltése *lásd a videóban*
+1. Discord Bot létrehozása *(lásd a videóban)* 
+2. Node.js letöltése *(lásd a videóban)*
 3. Npm letöltése:
 
 ```sh
 npm install npm -g 
 ```
+
+4. Discord.JS letöltése:
+
+```sh
+npm i discord.j@12.5.3
+```
+
+
