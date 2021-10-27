@@ -14,18 +14,22 @@ Ebben a részben megismerkedünk az alapvető dolgokkal és létrehozzuk a botun
   <summary>Tartalomjegyzék</summary>
   <ol>
     <li>
-      <a href="#rólunk">👨 Rólunk</a>
-      <ul>
-        <li><a href="#kik-vagyunk-mi">Kik vagyunk mi?</a></li>
-        <li><a href="#kapcsolat">Kapcsolat</a></li>
-        <li><a href="#programnyelvek-és-eszközök">Programnyelvek és Eszközök</a></li>
-      </ul>
+      <a href="#1-discord-bot-létrehozása">Discord Bot létrehozása</a>
     </li>
     <li>
-      <a href="#-legutóbbi-youtube-videók">📺 Legutóbbi YouTube Videók</a>
+      <a href="#2-nodejs-letöltése">Node.js letöltése</a>
     </li>
     <li>
-      <a href="#%EF%B8%8F-youtube-videó-sourcecodes">🖥️ YouTube Videó SourceCodes</a>
+      <a href="3-npm-letöltése">Npm letöltése</a>
+    </li>
+    <li>
+      <a href="4-discordjs-letöltése">Discord.JS letöltése</a>
+    </li>
+    <li>
+      <a href="5-kódolás">Kódolás</a>
+    </li>
+    <li>
+      <a href="6-bot-indítása">Bot indítása</a>
     </li>
   </ol>
 </details>
